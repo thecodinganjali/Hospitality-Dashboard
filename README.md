@@ -13,11 +13,14 @@ Welcome to the Hospitality Dashboard! This project focuses on analyzing key metr
 ## Dashboard Preview
 
 
+![Screenshot (354)](https://github.com/user-attachments/assets/8a64b37e-a967-499c-8cf5-d4edb3ec03ed)
+![Screenshot (355)](https://github.com/user-attachments/assets/9fa59c69-195a-49a6-bbe0-190025624e64)
 
 
 ## Visualization Tools
 1 **Tool Used**: Power-Bi
-2. **Dataset Used**: 
+
+2. **Dataset Used**: https://github.com/thecodinganjali/Hospitality-Dashboard/blob/Project/Hosptality.zip
 
 
 ## Conclusion
