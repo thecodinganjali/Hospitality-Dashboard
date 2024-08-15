@@ -1,4 +1,7 @@
-# Hospitality-Dashboard
+#  Hospitality-Dashboard 🏨
+
+<img src="https://github.com/user-attachments/assets/893294f8-14ee-4bbc-bcbb-7837cfd5bcc6" width="500" height="500">
+
 
 ## Introduction
 Welcome to the Hospitality Dashboard! This project focuses on analyzing key metrics from various hotels using Power BI to provide insights into our hospitality operations. By transforming raw booking data into actionable insights through interactive visualizations, we aim to make data-driven decisions, track hotel performance, and identify trends for better business strategies.
