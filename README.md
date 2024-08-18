@@ -1,4 +1,4 @@
-#  Hospitality-Dashboard 🏨
+#  Revenue Driven Hospitality Insights Dashboard 🏨
 
 <img src="https://github.com/user-attachments/assets/893294f8-14ee-4bbc-bcbb-7837cfd5bcc6" width="500" height="500">
 
